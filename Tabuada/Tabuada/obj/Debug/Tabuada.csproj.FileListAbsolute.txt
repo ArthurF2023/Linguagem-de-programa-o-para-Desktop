@@ -1,7 +1,0 @@
-C:\Users\Arthur-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
-C:\Users\Arthur-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\Tabuada.exe
-C:\Users\Arthur-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
-C:\Users\Arthur-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
-C:\Users\Arthur-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
-C:\Users\Arthur-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\Tabuada.exe
-C:\Users\Arthur-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\Tabuada.pdb
