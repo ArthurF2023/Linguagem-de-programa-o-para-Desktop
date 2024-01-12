@@ -1,0 +1,15 @@
+C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.exe.config
+C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.exe
+C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.pdb
+C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.csproj.AssemblyReference.cache
+C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.exe
+C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.pdb
+C:\Users\aluno\Downloads\Linguagem-de-programa-o-para-Desktop-main (1)\Linguagem-de-programa-o-para-Desktop-main\Aula 1\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.exe.config
+C:\Users\aluno\Downloads\Linguagem-de-programa-o-para-Desktop-main (1)\Linguagem-de-programa-o-para-Desktop-main\Aula 1\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.exe
+C:\Users\aluno\Downloads\Linguagem-de-programa-o-para-Desktop-main (1)\Linguagem-de-programa-o-para-Desktop-main\Aula 1\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.pdb
+C:\Users\aluno\Downloads\Linguagem-de-programa-o-para-Desktop-main (1)\Linguagem-de-programa-o-para-Desktop-main\Aula 1\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Linguagem-de-programa-o-para-Desktop-main (1)\Linguagem-de-programa-o-para-Desktop-main\Aula 1\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\Linguagem-de-programa-o-para-Desktop-main (1)\Linguagem-de-programa-o-para-Desktop-main\Aula 1\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Linguagem-de-programa-o-para-Desktop-main (1)\Linguagem-de-programa-o-para-Desktop-main\Aula 1\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.exe
+C:\Users\aluno\Downloads\Linguagem-de-programa-o-para-Desktop-main (1)\Linguagem-de-programa-o-para-Desktop-main\Aula 1\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.pdb
