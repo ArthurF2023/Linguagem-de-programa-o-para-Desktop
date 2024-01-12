@@ -1,7 +1,0 @@
-C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.exe.config
-C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.exe
-C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\bin\Debug\Tabuada usando Variáveis.pdb
-C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.csproj.AssemblyReference.cache
-C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.csproj.CoreCompileInputs.cache
-C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.exe
-C:\Users\Arthur-Gamer\source\repos\Tabuada usando Variáveis\Tabuada usando Variáveis\obj\Debug\Tabuada usando Variáveis.pdb
