@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\Aula 2 - Tabuada var\Aula 5\Aula 5\bin\Debug\Aula 5.exe.config
+C:\Users\aluno\Desktop\Aula 2 - Tabuada var\Aula 5\Aula 5\bin\Debug\Aula 5.exe
+C:\Users\aluno\Desktop\Aula 2 - Tabuada var\Aula 5\Aula 5\bin\Debug\Aula 5.pdb
+C:\Users\aluno\Desktop\Aula 2 - Tabuada var\Aula 5\Aula 5\obj\Debug\Aula 5.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Aula 2 - Tabuada var\Aula 5\Aula 5\obj\Debug\Aula 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Aula 2 - Tabuada var\Aula 5\Aula 5\obj\Debug\Aula 5.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aula 2 - Tabuada var\Aula 5\Aula 5\obj\Debug\Aula 5.exe
+C:\Users\aluno\Desktop\Aula 2 - Tabuada var\Aula 5\Aula 5\obj\Debug\Aula 5.pdb
