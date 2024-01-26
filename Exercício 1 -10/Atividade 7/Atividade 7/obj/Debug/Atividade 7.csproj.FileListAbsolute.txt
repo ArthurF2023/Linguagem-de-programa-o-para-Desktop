@@ -1,0 +1,7 @@
+C:\Users\SUPORTETI\Desktop\Atividade 1 -10\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe.config
+C:\Users\SUPORTETI\Desktop\Atividade 1 -10\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe
+C:\Users\SUPORTETI\Desktop\Atividade 1 -10\Atividade 7\Atividade 7\bin\Debug\Atividade 7.pdb
+C:\Users\SUPORTETI\Desktop\Atividade 1 -10\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.AssemblyReference.cache
+C:\Users\SUPORTETI\Desktop\Atividade 1 -10\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTETI\Desktop\Atividade 1 -10\Atividade 7\Atividade 7\obj\Debug\Atividade 7.exe
+C:\Users\SUPORTETI\Desktop\Atividade 1 -10\Atividade 7\Atividade 7\obj\Debug\Atividade 7.pdb
